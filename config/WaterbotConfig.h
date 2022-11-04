@@ -3,8 +3,8 @@
 #define CONFIG_H
 
 // WiFi connect creds
-const char* PROGMEM SSID = "MyWAN2";
-const char* PROGMEM PASSWORD = "vMRi0SuN9E";
+const char* PROGMEM SSID = "wifi_id";
+const char* PROGMEM PASSWORD = "pass";
 
 // Time to sleep (in seconds):
 //const int sleepTimeS = 10;
